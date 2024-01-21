@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": {
+			"include": [
+				"lib/**/*.jar"
+			],
+			"exclude": [
+				"HelloApp.jar"
+			]
+		},
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
